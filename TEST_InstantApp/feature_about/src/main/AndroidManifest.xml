@@ -12,7 +12,7 @@
 
                 <data
                     android:host="nttdata.com"
-                    android:pathPattern="/.*"
+                    android:pathPattern="/about"
                     android:scheme="https" />
             </intent-filter>
             <intent-filter>

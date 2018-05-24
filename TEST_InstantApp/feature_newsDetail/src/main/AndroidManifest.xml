@@ -12,7 +12,7 @@
 
                 <data
                     android:host="instantapp.nttdata.com"
-                    android:pathPattern="/hello"
+                    android:pathPattern="/newsDetail"
                     android:scheme="https" />
             </intent-filter>
             <intent-filter>
