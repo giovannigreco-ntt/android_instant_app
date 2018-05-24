@@ -1,0 +1,1 @@
+include ':feature_newsDetail', ':app', ':base', ':instantappNewsDetail', ':instantappAbout', ':feature_about', ':feature_fullapp'
